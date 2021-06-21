@@ -1,0 +1,17 @@
+{
+    "name": "jack-crawley/trustpilot-scraper",
+    "description": "Pulls Trustpilot data and serves it in API format",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "JackCrawley\\TrustpilotScraper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jack Crawley",
+            "email": "jack@think3.co.uk"
+        }
+    ],
+    "require": {}
+}
